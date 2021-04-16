@@ -1,7 +1,8 @@
 # ITA_Vaccine_administration
 Data visualization and analyisis of Italy Covid 19 vaccination status based on opendata repository managed, on github, by "**Italian Government**" 
 A pyton script that executes different graphs, analysis and KPI calcualations to lllustrate ongoing progresses of vaccination campaign.
-I started this project just because I wanted to jump into Data Science and learn some python programming
+I started this project just because I wanted to jump into Data Science and learn some python programming.
+<br>
 <br>
 **Author**: Fabio Sona<br>
 **Update**: 16 April 2021<br>
