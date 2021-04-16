@@ -20,6 +20,7 @@ Any feedback on programming logic and/or technique is welcome
 ## License
 
 The script is released under Creative Commons - Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0) license <br>
-
+Just add an <img> tag to your README.md with relative src to your repository.
+<img src="/81x33.png" alt="CC License"/>
 [License summary](https://creativecommons.org/licenses/by-nc-sa/4.0/)<br>
 [License legal text](https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode)<br>
